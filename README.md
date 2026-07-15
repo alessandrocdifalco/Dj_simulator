@@ -1,5 +1,7 @@
 # DJ Simulator
 
+[![Android APK](https://github.com/alessandrocdifalco/Dj_simulator/actions/workflows/android.yml/badge.svg)](https://github.com/alessandrocdifalco/Dj_simulator/actions/workflows/android.yml)
+
 Simulatore di carriera da DJ nativo per Android, scritto in Kotlin e Jetpack Compose.
 
 ## Prima versione giocabile
